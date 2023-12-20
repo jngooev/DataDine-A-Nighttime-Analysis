@@ -26,12 +26,9 @@ orderid: bigint
 ## 2. Uncover Insights into Nightly Sales  
 ### 2.1 Items per order  
 Approximately 53% of orders consist of fewer than 3 items. Targeting this specific segment and implementing strategies to encourage customers to purchase additional items has the potential to significantly enhance our overall revenue during nighttime hours.  
-![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/1d11b5a5-b704-430e-80e8-d71fd59d08b5)  
+ ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/1d11b5a5-b704-430e-80e8-d71fd59d08b5)  
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/797bb946-b787-4839-9d06-d2b03789838b)
 
-
-
-![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/aaced6d0-592e-40d5-981f-1ee4c2e5ad71)
 ### 2.2 Best Seller at night  
 By item:  
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/20b44612-125b-4e4e-b8c2-90185b7dac64)  
