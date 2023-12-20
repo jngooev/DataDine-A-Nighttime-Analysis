@@ -1,5 +1,39 @@
+--Create data of sales from 23:00 to 6:00
 CREATE TABLE data_nightly AS
 SELECT *
 FROM clean_data
 WHERE EXTRACT(HOUR FROM closed_date_time) BETWEEN 0 AND 5
    OR (EXTRACT(HOUR FROM closed_date_time) = 23 AND EXTRACT(MINUTE FROM closed_date_time) BETWEEN 0 AND 59);
+
+--Find out how many items/order customer usually make at night
+Select
+   orderid,
+   count(orderid)
+From
+   data_nightly
+Group by
+   orderid
+--Find out best seller at night
+SELECT
+    Rank()OVER (ORDER BY SUM(net_sales) DESC)  AS Rank,
+    itemname,
+    COUNT(itemname) AS Count,
+    SUM(net_sales) AS Net_sales,
+    ROUND((SUM(net_sales)::numeric / SUM(SUM(net_sales)::numeric) OVER ()) * 100, 2) || '%' AS Percent_of_Total
+FROM
+    data_nightly
+GROUP BY
+    itemname
+ORDER BY
+    Net_sales DESC;
+--Find out which category generate most sales at night
+SELECT 
+	revenue_center,
+	SUM(net_sales) as Net_Sales,
+	Count(itemname) as count
+FROM 
+	data_nightly
+Group by
+	revenue_center
+Order by
+	SUM(net_sales) DESC
