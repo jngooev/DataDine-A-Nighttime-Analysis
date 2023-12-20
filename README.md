@@ -1,5 +1,5 @@
 # DataDine-A-Nighttime-Analysis at Fastfood restaurant X.
-A comprehensive analysis that transforms raw data into actionable insights, guiding the restaurant chain to make informed decisions for maximizing sales during the nighttime hours - all final numbers in this report are fabricated and altered for privacy purposes.
+After conducting preliminary analyses, it has been identified that nighttime sales are a significant challenge for Fastfood Restaurant X, leading to a decline in overall sales and impacting profitability. This comprehensive analysis transforms raw data into actionable insights, providing strategic guidance to the restaurant chain for making informed decisions aimed at maximizing sales during nighttime hours. It is important to note that all final numbers in this report are fabricated and altered to ensure privacy.
 ## 1. Data Structure: Column Names and Data Types  
 **After undergoing a preliminary cleaning process, the data table, named 'clean_data' now consists of 19 columns and 608,226 rows.**
 closed_date_time: timestamp - The date and time order is closed  
