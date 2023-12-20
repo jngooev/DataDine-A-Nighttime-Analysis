@@ -42,15 +42,20 @@ A significant portion, 50%, of orders falls below the $7 threshold, with the mos
 ### 2.4 Identify Optimal Combinations Frequently Chosen by Customers  
 When considering items for a promotional discount on combos of 2, it is advisable to prioritize those identified as the most frequently ordered together by customers:  
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/fa096c12-c823-4c4c-8c60-b2a259436dca)
-## 3. Conclusion and Recommandation  
-**In the nighttime, our sales are adversely affected due to several factors:**  
-1. Insufficient foot traffic during nighttime hours, as evidenced by a comparative analysis of sales between daytime and nighttime periods.  
-2. Predominance of small-sized orders, with 53% comprising only 1-2 items.  
-3. Low net sales per order, with 50% falling below the $7 threshold.  
-**To address these challenges, we recommend implementing the following strategies:**  
-Launching targeted marketing campaigns to raise awareness of our 24-hour operation.  
-Introducing promotional giveaways to attract more customers during nighttime hours.  
-Enhancing sales among existing customers by incentivizing larger orders through promotional campaigns, encouraging orders exceeding $7 or including more than 3 items per order.
+## 3. Conclusion and Recommendation
+
+**In the nighttime, our sales are adversely affected due to several factors:**
+
+1. Insufficient foot traffic during nighttime hours, as evidenced by a comparative analysis of sales between daytime and nighttime periods.
+2. Predominance of small-sized orders, with 53% comprising only 1-2 items.
+3. Low net sales per order, with 50% falling below the $7 threshold.
+
+**To address these challenges, we recommend implementing the following strategies:**
+
+- Launching targeted marketing campaigns to raise awareness of our 24-hour operation.
+- Introducing promotional giveaways to attract more customers during nighttime hours.
+- Enhancing sales among existing customers by incentivizing larger orders through promotional campaigns, encouraging orders exceeding $7 or including more than 3 items per order.
+
 
 
 
