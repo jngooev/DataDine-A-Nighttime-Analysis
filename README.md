@@ -20,4 +20,5 @@ voided: boolean
 has_customer: boolean  
 is_modifier:boolean  
 orderid: bigint  
-![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/6b5f6741-b35e-4cdf-9168-708b5a0818a8)
+![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/02aa0c2b-1b8a-4e2c-9f00-e179fcb36c2f)
+
