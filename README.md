@@ -47,7 +47,7 @@ When considering items for a promotional discount on combos of 2, it is advisabl
 1. Insufficient foot traffic during nighttime hours, as evidenced by a comparative analysis of sales between daytime and nighttime periods.  
 2. Predominance of small-sized orders, with 53% comprising only 1-2 items.  
 3. Low net sales per order, with 50% falling below the $7 threshold.  
-**To address these challenges, we recommend implementing the following strategies:**
+**To address these challenges, we recommend implementing the following strategies:**  
 Launching targeted marketing campaigns to raise awareness of our 24-hour operation.  
 Introducing promotional giveaways to attract more customers during nighttime hours.  
 Enhancing sales among existing customers by incentivizing larger orders through promotional campaigns, encouraging orders exceeding $7 or including more than 3 items per order.
