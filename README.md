@@ -39,6 +39,10 @@ It is noteworthy that the two categories, Asian Sandwiches and Lee's Cafe Cup, c
 ### 2.3 Net_sales per order
 A significant portion, 50%, of orders falls below the $7 threshold, with the most frequent net sales per order observed within the range of $3 to $3.5. By strategically targeting and engaging customers within this segment, characterized by orders under $7, and implementing measures to encourage increased spending, there is potential to enhance overall sales performance.  
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/3f92668f-f28c-458b-a575-c5c6e7a7c501)  
+### 2.4 Identify Optimal Combinations Frequently Chosen by Customers  
+When considering items for a promotional discount on combos of 2, it is advisable to prioritize those identified as the most frequently ordered together by customers:  
+![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/fa096c12-c823-4c4c-8c60-b2a259436dca)
+
 
 
 
