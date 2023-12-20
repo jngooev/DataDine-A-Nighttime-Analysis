@@ -1,6 +1,6 @@
 # DataDine-A-Nighttime-Analysis at Fastfood restaurant X.
 A comprehensive analysis that transforms raw data into actionable insights, guiding the restaurant chain to make informed decisions for maximizing sales during the nighttime hours - all final numbers in this report are fabricated and altered for privacy purposes.
-##1. Peak look at the data
+## 1. Peak look at the data
 closed_date_time: timestamp
 employee_name: text
 item _id: integer
