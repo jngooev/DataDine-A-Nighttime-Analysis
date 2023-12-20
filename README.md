@@ -30,8 +30,10 @@ orderid: bigint
 By item  
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/20b44612-125b-4e4e-b8c2-90185b7dac64)  
 By category  
+It is noteworthy that the two categories, Asian Sandwiches and Lee's Cafe Cup, collectively contribute to more than 61% of net sales during nighttime hours.
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/97237fdc-96cd-41b3-94df-4ef7ad81a4cd)  
-![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/b6f70838-41f5-4498-8d70-19e1396a566b)  
+![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/0711af02-c789-4621-8743-4c3ed6d5f0b1)
+
 
 
 
