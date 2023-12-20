@@ -22,5 +22,16 @@ has_customer: boolean
 is_modifier:boolean  
 orderid: bigint  
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/02aa0c2b-1b8a-4e2c-9f00-e179fcb36c2f)  
+## 2. Uncover Insights into Nightly Sales  
+### 2.1 Items per order  
+![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/35373d7b-f7f3-4b7a-b5f7-5bf27d0835b4)
+### 2.2 Best Seller at night  
+By item  
+![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/20b44612-125b-4e4e-b8c2-90185b7dac64)  
+By category  
+![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/97237fdc-96cd-41b3-94df-4ef7ad81a4cd)  
+![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/b6f70838-41f5-4498-8d70-19e1396a566b)  
+
+
 
 
