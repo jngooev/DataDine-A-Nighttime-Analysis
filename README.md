@@ -25,7 +25,7 @@ orderid: bigint
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/02aa0c2b-1b8a-4e2c-9f00-e179fcb36c2f)  
 ## 2. Uncover Insights into Nightly Sales  
 ### 2.1 Items per order  
-![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/45d07916-40af-45db-a317-f9293e614876)
+![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/aaced6d0-592e-40d5-981f-1ee4c2e5ad71)
 ### 2.2 Best Seller at night  
 By item:  
 ![image](https://github.com/jngooev/DataDine-A-Nighttime-Analysis/assets/131409825/20b44612-125b-4e4e-b8c2-90185b7dac64)  
