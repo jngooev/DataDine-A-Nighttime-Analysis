@@ -1,0 +1,5 @@
+CREATE TABLE data_nightly AS
+SELECT *
+FROM clean_data
+WHERE EXTRACT(HOUR FROM closed_date_time) BETWEEN 0 AND 5
+   OR (EXTRACT(HOUR FROM closed_date_time) = 23 AND EXTRACT(MINUTE FROM closed_date_time) BETWEEN 0 AND 59);
