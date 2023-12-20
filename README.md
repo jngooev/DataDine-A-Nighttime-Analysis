@@ -1,7 +1,7 @@
 # DataDine-A-Nighttime-Analysis at Fastfood restaurant X.
 A comprehensive analysis that transforms raw data into actionable insights, guiding the restaurant chain to make informed decisions for maximizing sales during the nighttime hours - all final numbers in this report are fabricated and altered for privacy purposes.
 ## 1. Data Structure: Column Names and Data Types  
-After undergoing a preliminary cleaning process, the data table, named 'clean_data' now consists of 19 columns and 608,226 rows.
+**After undergoing a preliminary cleaning process, the data table, named 'clean_data' now consists of 19 columns and 608,226 rows.**
 closed_date_time: timestamp - The date and time order is closed  
 employee_name: text - Employee who took the order  
 item _id: integer  
